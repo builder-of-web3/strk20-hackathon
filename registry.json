@@ -422,14 +422,19 @@
       "ronkenx9"
     ],
     "x_handle": "kenn_ronin"
-  },
-  {
-    "repo_url": "https://github.com/bugsm/whisperpay",
-    "telegram": [
-      "genobu"
-    ],
-    "category": "Payments",
-    "inspired_by": "IDEA-11",
-    "x_handle": "zanexyzx"
   }
-]
+],
+{
+  "repo_url": "https://github.com/builder-of-web3/Alias",
+  "telegram": [
+    "mordor"
+  ],
+  "name": "Alias",
+  "one_liner": "Disposable stealth addresses for one-click private payments on Starknet.",
+  "category": "Privacy",
+  "inspired_by": "ERC-5564",
+  "team": [
+    "builder-of-web3"
+  ],
+  "x_handle": "cryot_walker"
+}
